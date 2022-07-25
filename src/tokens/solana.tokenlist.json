@@ -11925,6 +11925,27 @@
     },
     {
       "chainId": 101,
+      "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+      "symbol": "CUSD",
+      "name": "Coin98 Dollar",
+      "decimals": 6,
+      "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+      "tags": [
+        "stablecoin",
+        "ethereum",
+        "spacegate",
+        "binancechain"
+      ],
+      "extensions": {
+        "website": "https://coin98.com/dollar",
+        "twitter": "https://twitter.com/coin98_finance",
+        "telegram": "https://t.me/coin98_finance",
+        "github": "https://github.com/coin98",
+        "coingeckoId": ""
+      }
+    },
+    {
+      "chainId": 101,
       "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
       "symbol": "SBR",
       "name": "Saber Protocol Token",
